@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I am Anyiam Chinemere Eberechukwu
 
-<!--
-**Unique-0868/Unique-0868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Monitoring, Evaluation, Research, Data Management and Project Support Professional with over 8 years of progressive experience in data collection, data analysis, reporting, documentation management, stakeholder engagement, research coordination, quality assurance, performance monitoring and evidence-based decision making. 
 
-Here are some ideas to get you started:
+## Tools and Skill Set
+- Experienced in managing large datasets
+- producing analytical reports,
+- supporting project implementation,
+- maintaining databases,
+- coordinating multidisciplinary stakeholders and ensuring compliance with reporting standards.
+- Strong proficiency in Microsoft Excel, Power BI, SQL,
+- Python,
+- ArcGIS,
+- Google Workspace and Microsoft Office. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Road Map:
+To become a sort-after power systems planning engineer
+
+## My Projects
+-[Lightning-Protection-System-LPS-Calculator](https://github.com/Unique-0868/Lightning-Protection-System-LPS-Calculator-Product-Requirement-Document)
+
+## Let's Connect
+[LinkedIn](www.linkedin.com/in/chinemere-anyiam-owuama)
+
