@@ -22,6 +22,7 @@ To become a sort-after power systems planning engineer
 
 ## My Projects
 -[Lightning-Protection-System-LPS-Calculator](https://github.com/Unique-0868/Lightning-Protection-System-LPS-Calculator-Product-Requirement-Document)
+-[BIG-DATA-LIGHTNING-ANALYSIS-FOR-NIGERIA ](https://github.com/Unique-0868/BIG-DATA-LIGHTNING-ANALYSIS-FOR-NIGERIA)
 
 ## Let's Connect
 [LinkedIn](www.linkedin.com/in/chinemere-anyiam-owuama)
