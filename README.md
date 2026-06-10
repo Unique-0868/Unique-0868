@@ -1,6 +1,6 @@
 ## Hi, I am Anyiam Chinemere Eberechukwu
 
-Monitoring, Evaluation, Research, Data Management and Project Support Professional with over 8 years of progressive experience in data collection, data analysis, reporting, documentation management, stakeholder engagement, research coordination, quality assurance, performance monitoring and evidence-based decision making. 
+Aspiring Power Systems Planning Engineer with experience in Monitoring, Evaluation, Research, Data Management and Project Support Professional with over 8 years of progressive experience in data collection, data analysis, reporting, documentation management, stakeholder engagement, research coordination, quality assurance, performance monitoring and evidence-based decision making. 
 
 ## Tools and Skill Set
 - Experienced in managing large datasets
@@ -11,7 +11,11 @@ Monitoring, Evaluation, Research, Data Management and Project Support Profession
 - Strong proficiency in Microsoft Excel, Power BI, SQL,
 - Python,
 - ArcGIS,
-- Google Workspace and Microsoft Office. 
+- Google Workspace and Microsoft Office,
+- Powerfactory
+- ETAP
+- AutoCad
+- PSCAD
 
 ## Road Map:
 To become a sort-after power systems planning engineer
